@@ -32,7 +32,7 @@
 
 ### 💻 GitHub Profile Stats
 
-![Joshuawilfred's github stats](https://github-readme-stats.vercel.app/api?username=Joshuawilfred&show_icons=true&theme=algolia) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joshuawilfred&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)]()
+<!-- ![Joshuawilfred's github stats](https://github-readme-stats.vercel.app/api?username=Joshuawilfred&show_icons=true&theme=algolia)  -->
 <br>
 
