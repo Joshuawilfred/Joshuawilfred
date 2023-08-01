@@ -28,11 +28,23 @@
     <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
 </div>
+</br>
+<hr>
 
+<details> <summary>
 
-### 💻 GitHub Profile Stats
+### 💻 GitHub Profile Stats 
+
+</summary>
+  <div>
+   <samp>
+ 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joshuawilfred&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)]()
 <!-- ![Joshuawilfred's github stats](https://github-readme-stats.vercel.app/api?username=Joshuawilfred&show_icons=true&theme=algolia)  -->
-<br>
+
+<samp>
+</div>
+</details>
+
 
