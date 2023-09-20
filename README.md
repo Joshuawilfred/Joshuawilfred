@@ -31,20 +31,10 @@
 </br>
 <hr>
 
-<details> <summary>
 
-### 💻 GitHub Profile Stats 
+## ⚡ Contribution
 
-</summary>
-  <div>
-   <samp>
- 
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshuawilfred&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joshuawilfred&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)]()
-<!-- ![Joshuawilfred's github stats](https://github-readme-stats.vercel.app/api?username=Joshuawilfred&show_icons=true&theme=algolia)  -->
-
-<samp>
-</div>
-</details>
 
 
