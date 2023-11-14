@@ -10,12 +10,11 @@
 
 ### About me
 
-- 🔭 I’m currently working on **Ecommerce System project using Laravel**
-- 🌱 I'm currently learning **OOP** and **Backend Frameworks**
+- 🔭 I’m currently working on **Building Ecommerce Systems**
+- 🌱 I'm currently learning **REACT**
 - 🎓 Taking studies in **Software Engineering** and **Computer Science**
-- 👯 I’m looking to collaborate on any **Open Source Ecommerce Project**
+- 👯 I’m looking to collaborate on any **Open Source Projects**
 - 💬 Ask me about **System Designs**, **Responsive UIs** and **Philosophy 😆**
-- 🤔 Exploring **Neural Network Models** and **Deep Learning**
 
 ### Frequently Used Technologies</h2>
 
@@ -24,6 +23,7 @@
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
     <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
