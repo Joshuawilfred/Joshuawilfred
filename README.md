@@ -30,10 +30,10 @@
 </div>
 </br>
 <hr>
-<div style="display: hidden;">
+
 ### Profile views
-![](https://komarev.com/ghpvc/?username=your-github-Joshuawilfred&color=dc143c)
-</div>
+![](https://komarev.com/ghpvc/?username=Joshuawilfred&color=dc143c)
+
 
 ## ⚡ Contribution
 
