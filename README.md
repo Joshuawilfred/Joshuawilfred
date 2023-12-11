@@ -31,6 +31,8 @@
 </br>
 <hr>
 
+### Profile views
+![](https://komarev.com/ghpvc/?username=your-github-Joshuawilfred&color=dc143c)
 
 ## ⚡ Contribution
 
